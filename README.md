@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>Hi 👋, I'm DotChoco</b>
+  <b>Hi 👋, I'm 4t.Ritch</b>
 </h1>
 <p align="center">
 Software Developer 🧑🏽‍💻 that mainly use C# an Unity(2D) and adition have basic knowledge about other technologies like Rust, HTML and CSS. 
