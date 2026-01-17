@@ -1,30 +1,21 @@
-<h1 align="center">
-  <b>Hi 👋, I'm 4t.Ritch</b>
-</h1>
-<p align="center">
-Software Developer 🧑🏽‍💻 that mainly use C# an Unity(2D) and adition have basic knowledge about other technologies like Rust, HTML and CSS. 
-The main are the DevTools 🧑‍💻 (for various programming languajes), Terminal Apps(CLI's) and Desktop Apps 🖥️.
-</p>
-<br>
+# Hi 👋, I'm 4t.Ritch
 
-<p>
-<div align="center">
-  <img src="https://img.shields.io/badge/-Unity-757575?style=for-the-badge&logo=unity&logoColor=E6E6E6&labelColor=1F1F1F">
-  <img src="https://img.shields.io/badge/-CSharp-7751BA?style=for-the-badge&logo=sharp&logoColor=CEB2FF&labelColor=1F1F1F">
-  <img src="https://img.shields.io/badge/-Rust-D11B21?style=for-the-badge&logo=rust&logoColor=FF474D&labelColor=1F1F1F">
-  <img src="https://img.shields.io/badge/-HTML-db6b32?style=for-the-badge&logo=html5&logoColor=db6b32&labelColor=1F1F1F">
-  <img src="https://img.shields.io/badge/-CSS-2065fa?style=for-the-badge&logo=css&logoColor=4e82f2&labelColor=1F1F1F">
-</div>
-</p>
+### An experienced C# developer
 
+- 🔭 I'm currently working on **a SaaS oriented from the current multimedia consumer that use multiple platforms like netflix, hbo, etc**
 
-## My Statistics
+- 🌱 I'm currently learning **Postgresql, Rust, Networking, Marketing**
 
-<br/>
+- 🤝 I'm looking for help with **learning UI/UX desing like Apple desing using the y2k style**
+
+- 💬 Ask me about **Game Development**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img width="56.6%" src="https://github-readme-stats.vercel.app/api?username=4tRitch&theme=dark&show_icons=true&ring_color=FFFFFF&rank_icon=github" />
-  <img width="37.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4tRitch&layout=compact&theme=dark" />
-  </a>
+<a href="https://github.com/4tRitch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="4tRitch" height="30" width="40" /></a>
+<a href="https://twitter.com/4tRitch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="4tRitch" height="30" width="40" /></a>
 </p>
-<br>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rust" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rust" alt="rust" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/selenium" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=selenium" alt="selenium" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unity" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a></p>
 
