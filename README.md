@@ -13,7 +13,7 @@
   <tr>
     <td align="center">
       <a href="https://www.gnu.org/software/bash/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=bash" width="40" height="40" alt="Bash" />
+        <img src="https://skillicons.dev/icons?i=bash" width="40" height="40" alt="Shell" />
       </a>
     </td>
     <td align="center">
@@ -68,7 +68,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center">Bash</td>
+    <td align="center">Shell</td>
     <td align="center">C#</td>
     <td align="center">Git</td>
     <td align="center">JS</td>
